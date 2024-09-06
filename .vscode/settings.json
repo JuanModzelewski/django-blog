@@ -15,4 +15,21 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Default Dark+",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "sqltools.connections": [
+      {
+         "pgOptions": {
+            "ssl": {
+               "rejectUnauthorized": true
+            }
+         },
+         "previewLimit": 50,
+         "server": "ep-gentle-mountain-a23bxz6h-pooler.eu-central-1.aws.neon.tech",
+         "port": 5432,
+         "driver": "PostgreSQL",
+         "name": "Django Blog",
+         "username": "uq9mrdqzqku",
+         "password": "Ohs3yoClFrEF",
+         "database": "cause_kung_raid_426557"
+      }
+   ],
 }
