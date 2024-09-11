@@ -1,1 +1,0 @@
-console.log("This is a message from the script in the javascript static folder")
